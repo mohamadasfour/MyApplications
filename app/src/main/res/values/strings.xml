@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Applications</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_threads">Threads</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_hospitals">Hospitals</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_name">this is the name of place</string>
+    <string name="place_description">this is the description of the place</string>
+
+</resources>

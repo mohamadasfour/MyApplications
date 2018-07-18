@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddLeft">16dp</dimen>
+    <dimen name="paddRight">16dp</dimen>
+    <dimen name="start">16dp</dimen>
+    <dimen name="end">16dp</dimen>
+</resources>
